@@ -21,7 +21,6 @@ print("Data imported successfully!")
 
 # Commit and close
 import sqlite3
-print(sqlite3.version)  # Shows SQLite module version
 print(sqlite3.sqlite_version)  # Shows actual SQLite engine version
 
 conn.close()
