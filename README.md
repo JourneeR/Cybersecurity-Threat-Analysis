@@ -14,7 +14,7 @@ This project analyzes cybersecurity threats using Python, SQLite, Tableau, and S
 - `cyber_alerts.csv` – Cybersecurity alerts from various sources  
 
 ## Visualizations  
-![Login Status](https://github.com/JourneeR/Cybersecurity-Threat-Analysis/blob/main/failed_vs_successful_login.png?raw=true)
+![Login Status](https://github.com/JourneeR/Cybersecurity-Threat-Analysis/blob/main/failed_vs_successful_login.png?raw=true| width=500)
  
 ![Threat Level](https://github.com/JourneeR/Cybersecurity-Threat-Analysis/blob/main/threat_level_distribution.png?raw=true)
 ## Tableau Dashboard
