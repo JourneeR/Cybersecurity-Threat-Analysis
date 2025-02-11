@@ -21,7 +21,7 @@ This project analyzes cybersecurity threats using Python, SQLite, Tableau, and S
 </p>
 
 ## Tableau Dashboard
-🔗 [View Interactive Dashboard](https://public.tableau.com/profile/yourname/viz/cybersecurity)  
+🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/journee.russell2728/viz/CybersecurityThreatAnalysis/CybersecurityThreats)  
 
 ---
 **📢 Author: [Journee Russell](https://github.com/JourneeR)**
