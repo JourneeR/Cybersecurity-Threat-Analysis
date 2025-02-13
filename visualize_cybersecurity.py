@@ -38,6 +38,6 @@ plt.show()
 # 3️⃣ Pie Chart: Threat Level Distribution
 threat_counts = df_network["threat_level"].value_counts()
 plt.figure(figsize=(6,6))
-plt.pie(threat_counts, labels=threat_counts.index, autopct="%1.1f%%", colors=sns.color_palette("magma", len(threat_counts)))
+plt.pie(threat_counts, labels=threat_counts.index, autopct="%1.1f%%", colors=sns.color_palette("coolwarm", len(threat_counts)))
 plt.title("Threat Level Distribution")
 plt.show()
