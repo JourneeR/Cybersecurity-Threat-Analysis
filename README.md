@@ -15,7 +15,8 @@ This project analyzes cybersecurity threats using Python, SQLite, Tableau, and S
 
 ## Visualizations  
 <p align="left">
-  <img src="https://github.com/JourneeR/Cybersecurity-Threat-Analysis/blob/main/threat_level_classification.png?raw=true" width="300">
+  <img src="https://github.com/JourneeR/Cybersecurity-Threat-Analysis/blob/main/threat_level_class.png?raw=true"
+width="300">
   
   <img src="https://github.com/JourneeR/Cybersecurity-Threat-Analysis/blob/main/threat_level_distribution.png?raw=true" width="400">
 </p>
